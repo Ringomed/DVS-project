@@ -8,7 +8,7 @@ const config = {
   kit: {
     adapter: adapter({
       // Optional: configure runtime; defaults to 'nodejs18.x'
-      runtime: 'nodejs16.x'
+      runtime: 'edge'
     })
   }
 };
