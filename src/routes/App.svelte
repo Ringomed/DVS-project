@@ -121,7 +121,7 @@
         top: 2rem;
         border-radius: 14px;
         box-shadow: 0px 2px 16px rgba(44,62,80,0.06);
-        min-height: 340px;
+        min-height: 200px;
 		z-index: 1;         
     }
 
